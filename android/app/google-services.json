@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "632181823886",
+    "firebase_url": "https://green-drive-taxi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "green-drive-taxi",
+    "storage_bucket": "green-drive-taxi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632181823886:android:fda4d7787eab67b11cacdf",
+        "android_client_info": {
+          "package_name": "com.greendrive.cabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632181823886-tuoqh2vonmuhv3jukonkgphmnlo3rqd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMx3tBdvmdRRNqMteoblcfALWgIQDm8Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632181823886-tuoqh2vonmuhv3jukonkgphmnlo3rqd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632181823886-03bb65i1ud974d9cqqhl9dem5v3mr062.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.greendrive.captain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632181823886:android:64dc3129c4e5f24b1cacdf",
+        "android_client_info": {
+          "package_name": "com.greendrive.captain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632181823886-tuoqh2vonmuhv3jukonkgphmnlo3rqd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMx3tBdvmdRRNqMteoblcfALWgIQDm8Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632181823886-tuoqh2vonmuhv3jukonkgphmnlo3rqd7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632181823886-03bb65i1ud974d9cqqhl9dem5v3mr062.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.greendrive.captain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
