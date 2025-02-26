@@ -118,7 +118,7 @@ class _MyAppState extends State<MyApp> {
           }
         }
         // toast('Internet is connected.');
-        log('connected');
+     //   log('connected');
       }
     });
   }
