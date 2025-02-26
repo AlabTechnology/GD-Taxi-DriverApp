@@ -118,7 +118,7 @@ class _MyAppState extends State<MyApp> {
           }
         }
         // toast('Internet is connected.');
-        log('connected');
+     //   log('connected');
       }
     });
   }
@@ -157,3 +157,4 @@ class _MyAppState extends State<MyApp> {
   }
 }
 ///new added to akilan branch
+///git merge
