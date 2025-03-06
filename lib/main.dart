@@ -156,5 +156,3 @@ class _MyAppState extends State<MyApp> {
     });
   }
 }
-///new added to akilan branch
-///git merge
